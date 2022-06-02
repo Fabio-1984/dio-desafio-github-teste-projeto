@@ -14,3 +14,5 @@ Foi inserido no dia 28/05/22 neste repositório um desafio proposto no módulo d
 Foi adicionado hoje dia 01/06/22 o meu desafio de To-Do List
 
 Inserido nesta pasta hoje dia 01/06/22 um pequeno projeto de calculadora inspirado na aula sintaxe básica em JavaScript(Aprofundando em funções).
+
+Inserido hoje dia 02/06/22 o projeto de calculadora inspirado na aula sintaxe básica em JavaScript(Aprofundando em funções).
