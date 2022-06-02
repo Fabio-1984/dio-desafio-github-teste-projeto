@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora</title>
+</head>
+<body onload="">
+    
+    <div id="principal">
+        <h1>Calculadora Simples</h1>
+
+         <form action="" id="formu" >
+         Primeiro valor: <input type="number" name="valori" id="valori"><br>
+         Segundo valor: <input type="number" name="valorf" id="valorf"><br>
+
+         <input type="button" value="+" onclick="somar()">
+         <input type="button" value="-" onclick="subtrair()">
+         <input type="button" value="*" onclick="multiplicar()">
+         <input type="button" value="/" onclick="dividir()"><br><br>
+         <input type="reset" value="limpar" >
+
+         Resultado:  <input type="text" name="res" id="res"><br>
+
+        </form>
+
+    </div>
+
+     <script src="script.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,40 @@
+body{
+    
+   background-color: rgba(58, 127, 231, 0.918);
+   font-family: 'Times New Roman', Times, serif;
+   
+
+}
+
+
+#principal{
+   
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    padding: 40px;
+    
+    
+   
+    
+      
+}
+
+form{
+    margin: 120px;
+    padding: 20px;
+    width: 250px;
+    background-color:darkseagreen;
+    box-sizing: border-box;
+    
+    
+    
+   
+}
+
+input{
+    margin-top: 20px;
+    
+}
+
