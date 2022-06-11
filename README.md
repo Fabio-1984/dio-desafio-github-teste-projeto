@@ -16,3 +16,6 @@ Foi adicionado hoje dia 01/06/22 o meu desafio de To-Do List
 Inserido nesta pasta hoje dia 01/06/22 um pequeno projeto de calculadora inspirado na aula sintaxe básica em JavaScript(Aprofundando em funções).
 
 Inserido hoje dia 02/06/22 o projeto de calculadora atualizado inspirado na aula sintaxe básica em JavaScript(Aprofundando em funções).
+
+Adicionado hoje 11/06/2022 a atividade prárica de Sintaxe e Operadores
+
