@@ -24,4 +24,4 @@ Adicionado hoje 11/06/2022 a atividade prárica de funções.
 
 Adicionando hoje dia 14/06/2022 ao repositório a atividade prática de variáveis e tipos.
 
-Adicionado o primeiro projeto em react native hoje dia 18/06/2022
+
