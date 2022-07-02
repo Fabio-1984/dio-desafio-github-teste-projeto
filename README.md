@@ -4,7 +4,7 @@ Repositório criado para Desafio de códigos e Projetos.
 
 ## Links Úteis
 [Sintaxe  Basica Markdown](https://www.markdownguide.org/basic-syntax/)
-[l]
+[l] (https://www.linkedin.com/in/fabio-luiz-teixeira-navarro-539457a3/)
 
 Informação inserida nesta linha (8) no repositório remoto para testar o pull para que as informações sejam atualizadas no repositório local.
 
