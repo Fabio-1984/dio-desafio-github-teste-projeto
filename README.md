@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projetos sobre Git/Github da Dio e Decola Tech 3º Edição
-Repositório criado para Desafio de cógigos e Projetos.
+Repositório criado para Desafio de códigos e Projetos.
 
 
 ## Links Úteis
