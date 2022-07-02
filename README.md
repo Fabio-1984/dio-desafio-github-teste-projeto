@@ -22,6 +22,12 @@ Adicionado hoje 11/06/2022 a atividade prárica de Sintaxe e Operadores.
 
 Adicionado hoje 11/06/2022 a atividade prárica de funções.
 
+Atividade prática de Tratamentos de Erros inserida ao repositório dia 12/06/2022
+
 Adicionando hoje dia 14/06/2022 ao repositório a atividade prática de variáveis e tipos.
+
+Foi adicionado dia 16/06/2022 ao repositório 3 atividades práticas: DOM,  Orientação a objetos e JavaScript assincrono.
+
+
 
 
