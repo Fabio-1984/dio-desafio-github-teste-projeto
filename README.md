@@ -5,9 +5,6 @@ Repositório criado para Desafio de códigos e Projetos.
 ## Links Úteis
 [Sintaxe  Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-
-[linkedin](https://www.linkedin.com/in/fabio-luiz-teixeira-navarro-539457a3/)
-
 Informação inserida nesta linha (8) no repositório remoto para testar o pull para que as informações sejam atualizadas no repositório local.
 
 Foi inserido no dia 28/05/22 neste repositório um site pessoal simples para testar o conhecimento adiquirido durante o módulo 2 HTML e CSS.
